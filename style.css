@@ -1,0 +1,16 @@
+body{
+    align-content: center
+}
+p.title{
+    text-align: center
+}
+table.format-table{
+    border: 1px;
+    margin: 10px;
+    
+}
+td.format-cel{
+    font-style: strong;
+    text-align: center
+     
+}
